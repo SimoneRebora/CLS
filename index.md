@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Contents
 author_profile: true
 ---
 

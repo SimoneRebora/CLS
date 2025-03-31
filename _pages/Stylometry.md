@@ -1,7 +1,7 @@
 ---
 page_id: Stylometry
 layout: single
-title: Stylometry
+title: Stylometry tools and tutorials
 permalink: /Stylometry/
 nav: false
 author_profile: true
