@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 *Last update: 31 March 2025.*  
-**<span style="color:red">STILL IN TEST PHASE<span>**
+<span style="color:red">STILL IN TEST PHASE<span>
 
 ## Tools
 
