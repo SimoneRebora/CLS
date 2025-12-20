@@ -6,14 +6,14 @@ author_profile: true
 
 ## Chapters
 
-1. Introduction. Computational methods and literary theory  
+[Introduction](Introduction/)  
+1. [Literary historiography and computational text analysis](TextAnalysis/)  
 2. [Stylistics and stylometry](Stylometry/)  
-3. Emotions in fiction and sentiment analysis  
-4. Literary themes and topic modelling  
-5. Mapping literature  
-6. Networking literature  
-7. Plotting literary history  
-8. Categorizing literary phenomena with machine learning  
-9. The issue of interpretation and the challenge of artificial intelligence  
-10. Conclusion. On the opportunities of interdisciplinarity  
+3. [Emotions in literature and sentiment analysis](SentimentAnalysis/)  
+4. [Thematic criticism and topic modeling](TopicModeling/)  
+5. [Mapping literature](Mapping/)  
+6. [Networking characters](Networks/)  
+7. [Intertextuality and text reuse detection](TextReuse/)  
+8. [Artificial Intelligence and the challenge of interpretation](MLGenAI/)  
+[Conclusion](Conclusion/)  
 
