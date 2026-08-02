@@ -1,25 +1,16 @@
 ---
 page_id: SentimentAnalysis
 layout: single
-title: Emotions in literature and sentiment analysis
+title: 3. Emotions in literature and sentiment analysis
 permalink: /SentimentAnalysis/
-nav: false
-author_profile: true
+sidebar:
+  nav: "docs"
+toc: true
+toc_sticky: true
+classes: small-text-page
 ---
 
-*Last update: 20 December 2025.*  
-<span style="color:red">STILL IN TEST PHASE<span>
+*Last update: 2026-08-02*
 
-## Tools
+The third chapter focusses on emotions in literary studies and in sentiment analysis. The accompanying page contains a list of tools and resources for sentiment analysis.
 
-### Name
-
-Description.
-Link: [...](...)
-
-## Tutorials
-
-### Name
-
-Description.
-Link: [...](...)

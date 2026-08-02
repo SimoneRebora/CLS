@@ -10,3 +10,27 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: "Chapters"
+    children:
+      - title: "Introduction"
+        url: Introduction/
+      - title: "1. Literary historiography and computational text analysis"
+        url: TextAnalysis/
+      - title: "2. Stylistics and stylometry"
+        url: Stylometry/
+      - title: "3. Emotions in literature and sentiment analysis"
+        url: SentimentAnalysis/
+      - title: "4. Thematic criticism and topic modeling"
+        url: TopicModeling/
+      - title: "5. Mapping literature"
+        url: Mapping/
+      - title: "6. Networking characters"
+        url: Networks/
+      - title: "7. Intertextuality and text reuse detection"
+        url: TextReuse/
+      - title: "8. Artificial Intelligence and the challenge of interpretation"
+        url: MLGenAI/
+      - title: "Conclusion"
+        url: Conclusion/

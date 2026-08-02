@@ -1,18 +1,16 @@
 ---
 page_id: Mapping
 layout: single
-title: Mapping literature
+title: 5. Mapping literature
 permalink: /Mapping/
-nav: false
-author_profile: true
+sidebar:
+  nav: "docs"
+toc: true
+toc_sticky: true
+classes: small-text-page
 ---
 
-*Last update: 20 December 2025.*  
-<span style="color:red">STILL IN TEST PHASE<span>
+*Last update: 2026-08-02*
 
-## Computational Literary Studies Projects
+The fifth chapter focusses on GIS technology and spatial literary studies. The accompanying page contains a list of tools and resources for mapping.
 
-### Name
-
-Description.
-Link: [...](...)

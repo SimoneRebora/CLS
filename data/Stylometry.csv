@@ -1,0 +1,7 @@
+"type","title","description","link","screenshot"
+"Resources","Stylometry bibliography","A rich bibliography on stylometry. Quite big, might take a moment to load.","https://www.zotero.org/groups/643516/stylometry_bibliography/library","/assets/images/Stylometry_1.png"
+"Tools","Stylo","A user-friendly tool to run multiple stylometric analyses.","https://github.com/computationalstylistics/stylo","/assets/images/Stylometry_2.png"
+"Tools","JGAAP","An advanced tool for authorship attribution.","https://evllabs.github.io/JGAAP/","/assets/images/Stylometry_3.png"
+"Tools","PyDelta","An experimental implementation of Burrow's delta in Python 3.","https://github.com/fotisj/pydelta","/assets/images/Stylometry_4.png"
+"Tutorials","Programming Historian's Introduction to Stylometry","A simple introduction to stylometry with the Python programming language.","https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python","/assets/images/Stylometry_5.png"
+"Tutorials","Stylo HOWTO","For (sort of) beginners: a concise HOWTO.","https://github.com/computationalstylistics/stylo_howto/blob/master/stylo_howto.pdf","/assets/images/Stylometry_6.png"

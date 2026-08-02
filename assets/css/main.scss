@@ -7,3 +7,23 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.small-text {
+  font-size: 0.55rem;
+}
+
+.small-text-page .page__content {
+  font-size: 1rem;
+}
+
+.small-text-page .page__content .toc {
+  font-size: 1rem;
+}
+
+.sidebar img {
+  width: 200px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

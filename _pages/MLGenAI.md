@@ -1,25 +1,16 @@
 ---
 page_id: MLGenAI
 layout: single
-title: Artificial Intelligence and the challenge of interpretation
+title: 8. Artificial Intelligence and the challenge of interpretation
 permalink: /MLGenAI/
-nav: false
-author_profile: true
+sidebar:
+  nav: "docs"
+toc: true
+toc_sticky: true
+classes: small-text-page
 ---
 
-*Last update: 20 December 2025.*  
-<span style="color:red">STILL IN TEST PHASE<span>
+*Last update: 2026-08-02*
 
-## Tools
+The eight chapter discusses the challenge of interpretation in computational literary studies. The accompanying page contains a list of tools and resources for machine learning and generative artificial intelligence.
 
-### Name
-
-Description.
-Link: [...](...)
-
-## Tutorials
-
-### Name
-
-Description.
-Link: [...](...)
