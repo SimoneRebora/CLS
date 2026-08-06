@@ -1,7 +1,7 @@
 ---
 page_id: TextReuse
 layout: single
-title: 7. Intertextuality and text reuse detection
+title: Intertextuality and text reuse detection
 permalink: /TextReuse/
 sidebar:
   nav: "docs"
@@ -10,7 +10,7 @@ toc_sticky: true
 classes: small-text-page
 ---
 
-*Last update: 2026-08-02*
+*Last update: 2026-08-06*
 
 The seventh chapter focusses on the issue of intertextuality and its study through computational tools. The accompanying page contains a list of tools and resources for text reuse detection and semantic similarity.
 

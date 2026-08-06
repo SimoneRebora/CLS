@@ -1,7 +1,7 @@
 ---
 page_id: Stylometry
 layout: single
-title: 2. Stylistics and stylometry
+title: Stylistics and stylometry
 permalink: /Stylometry/
 sidebar:
   nav: "docs"
@@ -10,7 +10,7 @@ toc_sticky: true
 classes: small-text-page
 ---
 
-*Last update: 2026-08-02*
+*Last update: 2026-08-06*
 
 The second chapter discusses the concept of style in stylistics and stylometry. The accompanying page contains a list of tools and resources in stylometry.
 

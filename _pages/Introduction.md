@@ -10,7 +10,7 @@ toc_sticky: true
 classes: small-text-page
 ---
 
-*Last update: 2026-08-02*
+*Last update: 2026-08-06*
 
 The introduction of the book focusses on the main concepts in computational literary studies and offers a brief history of the field. The accompanying page contains a list of main research and infrastructure projects.
 

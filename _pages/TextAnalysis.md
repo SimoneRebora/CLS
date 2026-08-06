@@ -1,7 +1,7 @@
 ---
 page_id: TextAnalysis
 layout: single
-title: 1. Literary historiography and computational text analysis
+title: Literary historiography and computational text analysis
 permalink: /TextAnalysis/
 sidebar:
   nav: "docs"

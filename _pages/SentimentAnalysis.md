@@ -1,7 +1,7 @@
 ---
 page_id: SentimentAnalysis
 layout: single
-title: 3. Emotions in literature and sentiment analysis
+title: Emotions in literature and sentiment analysis
 permalink: /SentimentAnalysis/
 sidebar:
   nav: "docs"

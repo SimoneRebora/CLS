@@ -1,7 +1,7 @@
 ---
 page_id: TopicModeling
 layout: single
-title: 4. Thematic criticism and topic modeling
+title: Thematic criticism and topic modeling
 permalink: /TopicModeling/
 sidebar:
   nav: "docs"
