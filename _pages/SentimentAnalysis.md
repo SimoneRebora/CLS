@@ -10,7 +10,7 @@ toc_sticky: true
 classes: small-text-page
 ---
 
-*Last update: 2026-08-03*
+*Last update: 2026-08-06*
 
 The third chapter focusses on emotions in literary studies and in sentiment analysis. The accompanying page contains a list of tools and resources for sentiment analysis.
 
@@ -43,6 +43,13 @@ A simple vector space model based tool for sentiment analysis of literary texts.
 
 SEANCE is an easy to use tool that includes 254 core indices and 20 component indices based on recent advances in sentiment analysis. In addition to the core indices, SEANCE allows for a number of customized indices including filtering for particular parts of speech and controlling for instances of negation.  
 ***More info [here](https://www.linguisticanalysistools.org/seance.html)***
+
+### [LIWC](https://www.liwc.app/)
+
+![Screenshot of LIWC]({{ '/assets/images/SentimentAnalysis_8.png' | relative_url }})
+
+A commercial software for text analysis (including emotions), with dictionaries developed by psycholinguists. According to the developers, using LIWC-22 to analyze others’ language can help you understand their thoughts, feelings, personality, and the ways they connect with others.  
+***More info [here](https://www.liwc.app/)***
 
 ## Sentiment Analysis Resources
 

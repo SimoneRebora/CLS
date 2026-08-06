@@ -10,7 +10,7 @@ toc_sticky: true
 classes: small-text-page
 ---
 
-*Last update: 2026-08-02*
+*Last update: 2026-08-06*
 
 The first chapter presents the main theories of literary historiography and connects them to the most basic approaches in computational text analysis. The accompanying page contains a list of tools and resources for natural language processing.
 
@@ -37,6 +37,13 @@ A freeware corpus analysis toolkit for concordancing and text analysis
 Textometry, born in France in the 80’s, has developed powerful techniques for the analysis of large body of texts. Following lexicometry and text statistical analysis, it offers tools and methods tested in multiple branches of the humanities and is statistically well founded. The project brings together open-source Textometry software developments to set up a modular platform called TXM.   
 ***More info [here](https://txm.gitpages.huma-num.fr/textometrie/en/)***
 
+### [Sketch Engine](https://www.sketchengine.eu/)
+
+![Screenshot of Sketch Engine]({{ '/assets/images/TextAnalysis_7.png' | relative_url }})
+
+A commercial software to study text corpora. Its algorithms analyze authentic texts totalling billions of words (text corpora) to identify instantly what is typical in language and what is rare, unusual, or emerging. It is also designed for text analysis or text mining applications.  
+***More info [here](https://www.sketchengine.eu/)***
+
 ## NLP Tools
 
 ### [Udpipe](https://lindat.mff.cuni.cz/services/udpipe/)
@@ -50,7 +57,7 @@ UDPipe is a trainable pipeline for tokenization, tagging, lemmatization and depe
 
 ![Screenshot of spaCy]({{ '/assets/images/TextAnalysis_5.png' | relative_url }})
 
-spaCy is a free, open-source library for advanced Natural Language Processing (NLP) in Python.  
+spaCy is a free, open-source library for advanced Natural Language Processing (NLP) in Python.  
 ***More info [here](https://spacy.io/)***
 
 ### [Stanza](https://stanfordnlp.github.io/stanza/)
