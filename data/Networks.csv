@@ -1,1 +1,5 @@
 "type","title","description","link","screenshot"
+"Network Analysis Tools","Gephi","An open-source desktop application to visually analyze networks.","https://gephi.org/desktop/","/assets/images/Networks_1.png"
+"Network Analysis Tools","Gephi Lite","The online version of Gephi. Lighter and simpler, it does not require installation.","https://lite.gephi.org/v1.0.2/","/assets/images/Networks_2.png"
+"Network Analysis Tools","igraph","A collection of network analysis tools with the emphasis on efficiency, portability and ease of use. Open source and free, igraph can be used in R, python, Mathematica, and C/C++","https://igraph.org/","/assets/images/Networks_3.png"
+"Network Analysis Tools","NetworkX","A Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.","https://networkx.org/","/assets/images/Networks_4.png"

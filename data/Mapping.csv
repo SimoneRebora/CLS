@@ -1,1 +1,7 @@
 "type","title","description","link","screenshot"
+"Mapping Environments","Recogito","An open online platform for text annotation. It allows to easily create a map from an annotated text, by relying on multiple historical gazetteers.","https://recogito.pelagios.org/","/assets/images/Mapping_1.png"
+"Mapping Environments","QGIS","A free software for professional map creation. It comes with a rich graphical interface","https://www.qgis.org/","/assets/images/Mapping_2.png"
+"Mapping Environments","Leaflet","An open-source JavaScript library for mobile-friendly interactive maps. It requires basic programming skills, and can also be used [via the R programming language](https://cran.r-project.org/web/packages/leaflet/index.html)","https://leafletjs.com/","/assets/images/Mapping_3.png"
+"Mapping Environments","Carto","A commercial platform for interactive map creation. Easy to use, it comes with an intuitive grapical interface","https://carto.com/","/assets/images/Mapping_4.png"
+"Mapping Resources","geojson.io","An online free tool to manually create/modify geojson files (containing geocoded shapes)","https://geojson.io/","/assets/images/Mapping_5.png"
+"Mapping Resources","Map Warper","An online free tool to warp historical maps over geocoded locations","https://mapwarper.net/","/assets/images/Mapping_6.png"
